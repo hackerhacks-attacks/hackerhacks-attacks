@@ -1,38 +1,44 @@
 <div align="center">
 
-# █████ HACKERHACKS ATTACKS █████
+# █ HACKERHACKS ATTACKS █
 
 ```text
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
- ACCESSING BLACKSITE NODE...
- SIGNAL DETECTED
- RESEARCH GRID ACTIVE
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+ACCESSING RESEARCH NODE...
+SIGNAL DETECTED
+NODE STATUS: ACTIVE
 ```
 
-```text
-[ REDACTED OPERATOR ]
-Secure Systems • Exploit Research • Signal in Noise
-```
+### *Researching the unseen.*
+
+---
+
+## [ REDACTED OPERATOR ]
+
+**Secure Systems • Exploit Research • Signal in Noise**
+
+---
 
 ```text
-STATUS
---------------------------------
-Identity:     Unknown
-Presence:     Attributed to none
-Node:         Active
-Telemetry:    Silent
+HackerHacks Attacks // Offensive Research Node
+
+Unknown Operator.
+Mapping attack surfaces in silence.
 ```
 
+---
+
+### ACTIVE SURFACES
+
 ```text
-ACTIVE SURFACES
---------------------------------
-/blacksite
-/threat-atlas
-/ghost-protocol
-/signal-noise
-/blang-core
+[ Signal ]      online
+[ Research ]    active
+[ Archives ]    sealed
+[ Identity ]    redacted
 ```
+
+---
+
+### PRINCIPLES
 
 ```text
 Observe.
@@ -41,10 +47,26 @@ Break assumptions.
 Leave artifacts.
 ```
 
+---
+
+### RESEARCH NODES
+
 ```text
-NO FACE
-NO BIO
-ONLY OUTPUT
+/blacksite
+/threat-atlas
+/ghost-protocol
+/signal-noise
+/blang-core
+```
+
+---
+
+> Attack surfaces reveal truth.
+
+```text
+NO BIO.
+NO FACE.
+ONLY OUTPUT.
 ```
 
 </div>
