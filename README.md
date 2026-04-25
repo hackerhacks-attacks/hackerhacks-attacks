@@ -1,72 +1,172 @@
 <div align="center">
 
-# Security Research Portfolio
+# Security Research & Systems Engineering Portfolio
 
-**Secure Systems • Security Research • Detection Engineering**
+**Secure Systems • Detection Engineering • Security Tooling • Authorized Labs**
 
-Privacy-conscious public profile focused on technical artifacts, documented projects, and security-focused engineering work.
+Privacy-conscious public portfolio focused on technical evidence, documented security work, and practical engineering projects.
 
-[Portfolio Website](https://hackerhacks-attacks.github.io) · [Selected Work](#selected-work) · [Professional Principles](#professional-principles)
+Public research handle: `hackerhacks-attacks`  
+Professional identity available privately during hiring or collaboration.
 
 </div>
 
 ---
 
-## Focus Areas
+## Professional Focus
 
-- Secure Systems Engineering
-- Security Research Methodology
-- Detection Engineering
-- Runtime / Compiler Security
-- Security Automation
-- Technical Documentation
+I am building a security-focused engineering portfolio around practical, evidence-based work.
+
+My current focus areas are:
+
+- Secure systems engineering
+- Detection engineering
+- Security automation
+- Authorized lab writeups
+- Runtime / compiler security research
+- Technical documentation and reproducible security analysis
+
+This profile is intentionally identity-light, but the work is meant to be reviewable, reproducible, and employer-safe.
 
 ---
 
-## Selected Work
+## Target Roles
+
+This portfolio is aligned with roles such as:
+
+- Security Analyst
+- SOC Analyst
+- Security Engineering Intern
+- Application Security Intern
+- Junior Security Researcher
+- Detection Engineering Intern
+- Cybersecurity Lab / Research Assistant
+- Secure Systems / Software Security Intern
+
+---
+
+## Proof of Work
+
+| Area | What I’m Building | What It Demonstrates |
+|---|---|---|
+| Secure Systems | Architecture notes, trust-boundary analysis, runtime/security design | Systems thinking and secure design |
+| Detection Engineering | Rule logic, telemetry notes, adversary behavior mapping | Blue-team reasoning and alert quality |
+| Security Labs | Authorized lab writeups with methodology and defense lessons | Practical security workflow |
+| Security Tooling | Parsers, automation scripts, validation utilities | Coding ability and security automation |
+| Runtime Research | Compiler/runtime security notes and experimental architecture | Low-level technical depth |
+
+---
+
+## Selected Projects
 
 ### Secure Systems Research
-Architecture notes, trust-boundary analysis, runtime behavior, hardening concepts, and secure-by-design reasoning.
+Repository: `secure-systems-research`
 
-### Security Labs & Writeups
-Authorized lab work, methodology notes, root-cause explanations, and defensive lessons learned.
+Planned contents:
+- trust-boundary diagrams
+- architecture notes
+- hardening analysis
+- runtime behavior observations
+- secure design checklists
 
-### Detection Engineering
-Telemetry interpretation, behavioral detection concepts, alert logic, and incident-analysis exercises.
+---
 
-### Security Tooling
-Small practical utilities, parsers, validation helpers, automation scripts, and research workflow tools.
+### Detection Engineering Labs
+Repository: `detection-engineering-labs`
+
+Planned contents:
+- detection logic notes
+- telemetry field mapping
+- Sigma-style rule experiments
+- false-positive analysis
+- incident timeline examples
+
+---
+
+### Authorized Security Lab Writeups
+Repository: `security-lab-writeups`
+
+Planned contents:
+- authorized lab walkthroughs
+- methodology
+- root-cause explanations
+- defensive lessons
+- remediation notes
+
+---
+
+### Security Automation Tools
+Repository: `security-automation-tools`
+
+Planned contents:
+- log parsers
+- IOC extractors
+- validation scripts
+- small security utilities
+- reproducible command examples
+
+---
+
+### Runtime / Compiler Security Notes
+Repository: `runtime-security-notes`
+
+Planned contents:
+- execution model analysis
+- artifact validation notes
+- native runtime observations
+- compiler/security architecture notes
+- secure tooling research
+
+---
+
+## Technical Skills Being Demonstrated
+
+- Python scripting
+- Linux / macOS command-line workflows
+- Networking fundamentals
+- Web security methodology
+- Security documentation
+- Detection logic
+- Threat modeling
+- Secure architecture review
+- Runtime and compiler security research
+- Git / GitHub project organization
+
+---
+
+## Professional Standards
+
+- Work only in owned, authorized, or controlled lab environments
+- Prefer evidence over unsupported claims
+- Document methodology clearly
+- Avoid exaggeration and theatrics
+- Keep public identity minimal while making technical work reviewable
+- Focus on reproducible projects, not empty branding
 
 ---
 
 ## Current Direction
 
-Building a portfolio around practical, evidence-based security work:
+I am currently building public technical artifacts around:
 
-- documented projects
-- reproducible labs
-- clean repositories
-- technical writeups
-- responsible research boundaries
+- security lab methodology
+- detection engineering
+- secure systems research
+- cybersecurity certification preparation
+- runtime and compiler security exploration
 
----
+The goal of this profile is simple:
 
-## Professional Principles
-
-- Work only in owned, authorized, or controlled lab environments
-- Prefer evidence and reproducibility over unsupported claims
-- Explain technical risk clearly without exaggeration
-- Keep public identity minimal while making technical output reviewable
-- Build useful artifacts, not noise
+> Show real work, clear thinking, and professional security discipline.
 
 ---
 
-## Planned Repositories
+## Contact
 
-```text
-secure-systems-research
-security-lab-writeups
-detection-engineering-labs
-security-automation-tools
-runtime-security-notes
-incident-analysis-notes
+Professional contact available privately during hiring, collaboration, or review.
+
+<div align="center">
+
+**Private by design. Professional by output.**
+
+</div>
