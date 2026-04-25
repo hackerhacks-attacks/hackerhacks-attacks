@@ -1,169 +1,63 @@
 <div align="center">
 
-# Security Research & Systems Engineering Portfolio
+# Security Research Portfolio
 
-**Secure Systems • Detection Engineering • Security Tooling • Authorized Labs**
+**Technical work. Minimal identity. Verifiable output.**
 
-Privacy-conscious public portfolio focused on technical evidence, documented security work, and practical engineering projects.
-
-Public research handle: `hackerhacks-attacks`  
-Professional identity available privately during hiring or collaboration.
+A privacy-conscious public profile for selected security-related technical artifacts.
 
 </div>
 
 ---
 
-## Professional Focus
+## Public Scope
 
-I am building a security-focused engineering portfolio around practical, evidence-based work.
+This profile is intentionally limited.
 
-My current focus areas are:
-
-- Secure systems engineering
-- Detection engineering
-- Security automation
-- Authorized lab writeups
-- Runtime / compiler security research
-- Technical documentation and reproducible security analysis
-
-This profile is intentionally identity-light, but the work is meant to be reviewable, reproducible, and employer-safe.
+Only selected public work is shown here. Personal identity, non-public projects, private research, client/employer details, and unpublished work are not disclosed on this profile.
 
 ---
 
-## Target Roles
+## What This Profile Shows
 
-This portfolio is aligned with roles such as:
-
-- Security Analyst
-- SOC Analyst
-- Security Engineering Intern
-- Application Security Intern
-- Junior Security Researcher
-- Detection Engineering Intern
-- Cybersecurity Lab / Research Assistant
-- Secure Systems / Software Security Intern
+- Technical documentation
+- Security-focused notes
+- Authorized lab work
+- Small utilities and automation
+- Defensive and systems-oriented analysis
+- Reproducible examples where appropriate
 
 ---
 
-## Proof of Work
+## Review Standard
 
-| Area | What I’m Building | What It Demonstrates |
-|---|---|---|
-| Secure Systems | Architecture notes, trust-boundary analysis, runtime/security design | Systems thinking and secure design |
-| Detection Engineering | Rule logic, telemetry notes, adversary behavior mapping | Blue-team reasoning and alert quality |
-| Security Labs | Authorized lab writeups with methodology and defense lessons | Practical security workflow |
-| Security Tooling | Parsers, automation scripts, validation utilities | Coding ability and security automation |
-| Runtime Research | Compiler/runtime security notes and experimental architecture | Low-level technical depth |
+Public repositories are organized to be:
 
----
-
-## Selected Projects
-
-### Secure Systems Research
-Repository: `secure-systems-research`
-
-Planned contents:
-- trust-boundary diagrams
-- architecture notes
-- hardening analysis
-- runtime behavior observations
-- secure design checklists
+- clear
+- reproducible
+- ethical
+- professionally written
+- safe for employer review
+- free from unnecessary personal disclosure
 
 ---
 
-### Detection Engineering Labs
-Repository: `detection-engineering-labs`
+## Professional Boundaries
 
-Planned contents:
-- detection logic notes
-- telemetry field mapping
-- Sigma-style rule experiments
-- false-positive analysis
-- incident timeline examples
+- Work is limited to owned, authorized, or controlled environments.
+- Public writeups avoid sensitive targets, private data, or unsafe disclosure.
+- Claims are kept evidence-based and technically reviewable.
+- Personal identity is minimized; technical output is prioritized.
 
 ---
 
-### Authorized Security Lab Writeups
-Repository: `security-lab-writeups`
+## Public Repositories
 
-Planned contents:
-- authorized lab walkthroughs
-- methodology
-- root-cause explanations
-- defensive lessons
-- remediation notes
+Please review the pinned repositories and repository READMEs for available public work.
+
+Private or unpublished work is not listed here.
 
 ---
-
-### Security Automation Tools
-Repository: `security-automation-tools`
-
-Planned contents:
-- log parsers
-- IOC extractors
-- validation scripts
-- small security utilities
-- reproducible command examples
-
----
-
-### Runtime / Compiler Security Notes
-Repository: `runtime-security-notes`
-
-Planned contents:
-- execution model analysis
-- artifact validation notes
-- native runtime observations
-- compiler/security architecture notes
-- secure tooling research
-
----
-
-## Technical Skills Being Demonstrated
-
-- Python scripting
-- Linux / macOS command-line workflows
-- Networking fundamentals
-- Web security methodology
-- Security documentation
-- Detection logic
-- Threat modeling
-- Secure architecture review
-- Runtime and compiler security research
-- Git / GitHub project organization
-
----
-
-## Professional Standards
-
-- Work only in owned, authorized, or controlled lab environments
-- Prefer evidence over unsupported claims
-- Document methodology clearly
-- Avoid exaggeration and theatrics
-- Keep public identity minimal while making technical work reviewable
-- Focus on reproducible projects, not empty branding
-
----
-
-## Current Direction
-
-I am currently building public technical artifacts around:
-
-- security lab methodology
-- detection engineering
-- secure systems research
-- cybersecurity certification preparation
-- runtime and compiler security exploration
-
-The goal of this profile is simple:
-
-> Show real work, clear thinking, and professional security discipline.
-
----
-
-## Contact
-
-Professional contact available privately during hiring, collaboration, or review.
 
 <div align="center">
 
