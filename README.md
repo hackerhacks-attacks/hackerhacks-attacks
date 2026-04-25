@@ -4,6 +4,32 @@
 
 <br>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Security-Research-0B1115?style=for-the-badge&labelColor=0B1115&color=9DDFE4">
+<img src="https://img.shields.io/badge/Secure-Systems-0B1115?style=for-the-badge&labelColor=0B1115&color=9DDFE4">
+<img src="https://img.shields.io/badge/Detection-Engineering-0B1115?style=for-the-badge&labelColor=0B1115&color=9DDFE4">
+<img src="https://img.shields.io/badge/Technical-Documentation-0B1115?style=for-the-badge&labelColor=0B1115&color=9DDFE4">
+<img src="https://img.shields.io/badge/Authorized-Labs-0B1115?style=for-the-badge&labelColor=0B1115&color=9DDFE4">
+<img src="https://img.shields.io/badge/Privacy-Conscious-0B1115?style=for-the-badge&labelColor=0B1115&color=9DDFE4">
+
+</div>
+
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Linux-0B1115?style=for-the-badge&logo=linux&logoColor=9DDFE4&labelColor=0B1115">
+<img src="https://img.shields.io/badge/Python-0B1115?style=for-the-badge&logo=python&logoColor=9DDFE4&labelColor=0B1115">
+<img src="https://img.shields.io/badge/Git-0B1115?style=for-the-badge&logo=git&logoColor=9DDFE4&labelColor=0B1115">
+<img src="https://img.shields.io/badge/GitHub-0B1115?style=for-the-badge&logo=github&logoColor=9DDFE4&labelColor=0B1115">
+<img src="https://img.shields.io/badge/Bash-0B1115?style=for-the-badge&logo=gnubash&logoColor=9DDFE4&labelColor=0B1115">
+<img src="https://img.shields.io/badge/Markdown-0B1115?style=for-the-badge&logo=markdown&logoColor=9DDFE4&labelColor=0B1115">
+
+</div>
+
+
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=9DDFE4&center=true&vCenter=true&width=900&lines=Researching+the+unseen.;Technical+work.+Minimal+identity.+Verifiable+output.;Secure+Systems+%E2%80%A2+Security+Research+%E2%80%A2+Detection+Engineering" alt="Typing animation">
 
 <br><br>
