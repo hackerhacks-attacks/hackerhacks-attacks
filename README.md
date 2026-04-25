@@ -1,16 +1,5 @@
 <div align="center">
 
-<a href="https://hackerhacks-attacks.github.io">
-  <img src="https://img.shields.io/badge/Open%20Portfolio-0B1115?style=for-the-badge&labelColor=0B1115&color=9DDFE4">
-</a>
-<a href="https://github.com/hackerhacks-attacks?tab=repositories">
-  <img src="https://img.shields.io/badge/Public%20Repositories-0B1115?style=for-the-badge&labelColor=0B1115&color=9DDFE4">
-</a>
-
-</div>
-
-<div align="center">
-
 <img src="./assets/hero-animated.svg" width="100%" alt="Security Research Portfolio Banner">
 
 <br>
