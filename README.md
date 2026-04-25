@@ -1,15 +1,12 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Security Research Portfolio Banner">
+<img src="./assets/hero-animated.svg" width="100%" alt="Security Research Portfolio Animated Banner">
 
 <br>
 
-<p>
-  <img src="https://img.shields.io/badge/Secure%20Systems-0B1115?style=for-the-badge&logoColor=9ddfe4">
-  <img src="https://img.shields.io/badge/Security%20Research-0B1115?style=for-the-badge&logoColor=9ddfe4">
-  <img src="https://img.shields.io/badge/Detection%20Engineering-0B1115?style=for-the-badge&logoColor=9ddfe4">
-  <img src="https://img.shields.io/badge/Technical%20Documentation-0B1115?style=for-the-badge&logoColor=9ddfe4">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=9DDFE4&center=true&vCenter=true&width=900&lines=Researching+the+unseen.;Technical+work.+Minimal+identity.+Verifiable+output.;Secure+Systems+%E2%80%A2+Security+Research+%E2%80%A2+Detection+Engineering" alt="Typing animation">
+
+<br>
 
 **Technical work. Minimal identity. Verifiable output.**
 
@@ -24,6 +21,14 @@ A privacy-conscious public profile for selected security-related technical artif
 This profile is intentionally limited.
 
 Only selected public work is shown here. Personal identity, non-public projects, private research, client/employer details, and unpublished work are not disclosed on this profile.
+
+---
+
+<div align="center">
+
+<img src="./assets/signal-panel.svg" width="100%" alt="Professional Review Signal Panel">
+
+</div>
 
 ---
 
@@ -79,7 +84,7 @@ Small tools, scripts, parsers, helpers, and automation where appropriate.
 
 <div align="center">
 
-<img src="./assets/review-panel.svg" width="100%" alt="Professional Review Panel">
+<img src="./assets/review-flow.svg" width="100%" alt="Review Flow Animation">
 
 </div>
 
