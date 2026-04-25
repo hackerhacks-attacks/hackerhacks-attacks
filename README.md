@@ -1,13 +1,4 @@
-<div align="center">
 
-<a href="https://hackerhacks-attacks.github.io">
-  <img src="https://img.shields.io/badge/Open%20Portfolio-0B1115?style=for-the-badge&labelColor=0B1115&color=9DDFE4">
-</a>
-<a href="https://github.com/hackerhacks-attacks">
-  <img src="https://img.shields.io/badge/Public%20Profile-0B1115?style=for-the-badge&labelColor=0B1115&color=9DDFE4">
-</a>
-
-</div>
 
 <div align="center">
 
@@ -38,7 +29,16 @@
 
 </div>
 
+<div align="center">
 
+<a href="https://hackerhacks-attacks.github.io">
+  <img src="https://img.shields.io/badge/Open%20Portfolio-0B1115?style=for-the-badge&labelColor=0B1115&color=9DDFE4">
+</a>
+<a href="https://github.com/hackerhacks-attacks">
+  <img src="https://img.shields.io/badge/Public%20Profile-0B1115?style=for-the-badge&labelColor=0B1115&color=9DDFE4">
+</a>
+
+</div>
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=9DDFE4&center=true&vCenter=true&width=900&lines=Researching+the+unseen.;Technical+work.+Minimal+identity.+Verifiable+output.;Secure+Systems+%E2%80%A2+Security+Research+%E2%80%A2+Detection+Engineering" alt="Typing animation">
