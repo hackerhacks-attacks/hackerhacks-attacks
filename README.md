@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-animated.svg" width="100%" alt="Security Research Portfolio Animated Banner">
+<img src="./assets/hero-animated.svg" width="100%" alt="Security Research Portfolio Banner">
 
 <br>
 
@@ -212,11 +212,11 @@ PUBLIC OUTPUT
 </tr>
 </table>
 
-* Work is limited to owned, authorized, or controlled environments.
-* Public writeups avoid sensitive targets, private data, or unsafe disclosure.
-* Claims are kept evidence-based and technically reviewable.
-* Personal identity is minimized; technical output is prioritized.
-* Public examples are designed for safe review and reproduction only where appropriate.
+- Work is limited to owned, authorized, or controlled environments.
+- Public writeups avoid sensitive targets, private data, or unsafe disclosure.
+- Claims are kept evidence-based and technically reviewable.
+- Personal identity is minimized; technical output is prioritized.
+- Public examples are designed for safe review and reproduction only where appropriate.
 
 ---
 
