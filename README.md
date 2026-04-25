@@ -1,9 +1,13 @@
 <div align="center">
 
-[Website](https://hackerhacks-attacks.github.io)
+<a href="https://hackerhacks-attacks.github.io">
+  <img src="https://img.shields.io/badge/Open%20Portfolio-0B1115?style=for-the-badge&labelColor=0B1115&color=9DDFE4">
+</a>
+<a href="https://github.com/hackerhacks-attacks">
+  <img src="https://img.shields.io/badge/Public%20Profile-0B1115?style=for-the-badge&labelColor=0B1115&color=9DDFE4">
+</a>
 
 </div>
-
 
 <div align="center">
 
