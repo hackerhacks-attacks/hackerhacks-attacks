@@ -37,7 +37,7 @@ Public repositories are organized to be:
 - reproducible
 - ethical
 - professionally written
-- safe for employer review
+- Safe, reproducible examples where appropriate
 - free from unnecessary personal disclosure
 
 ---
