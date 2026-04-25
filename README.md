@@ -43,6 +43,9 @@
 
 </div>
 
+<br>
+<br>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=9DDFE4&center=true&vCenter=true&width=900&lines=Researching+the+unseen.;Technical+work.+Minimal+identity.+Verifiable+output.;Secure+Systems+%E2%80%A2+Security+Research+%E2%80%A2+Detection+Engineering" alt="Typing animation">
 
