@@ -1,41 +1,72 @@
-# HACKERHACKS-ATTACKS
+<div align="center">
+
+# █ HACKERHACKS ATTACKS █
 
 ```text
-[ SIGNAL DETECTED ]
-[ RESEARCH NODE ACTIVE ]
+ACCESSING RESEARCH NODE...
+SIGNAL DETECTED
+NODE STATUS: ACTIVE
 ```
 
+### *Researching the unseen.*
+
+---
+
+## [ REDACTED OPERATOR ]
+
+**Secure Systems • Exploit Research • Signal in Noise**
+
+---
+
+```text
+HackerHacks Attacks // Offensive Research Node
+
 Unknown Operator.
-
 Mapping attack surfaces in silence.
+```
 
 ---
 
-## Operations
+### ACTIVE SURFACES
 
-- Offensive Research  
-- Secure Systems  
-- Detection Engineering  
-- Experimental Computing  
+```text
+[ Signal ]      online
+[ Research ]    active
+[ Archives ]    sealed
+[ Identity ]    redacted
+```
 
 ---
 
-## Active Nodes
+### PRINCIPLES
 
-```bash
-blacksite-labs
-signal-mapper
-threat-atlas
-ghost-protocol
-blang-core
+```text
+Observe.
+Enumerate.
+Break assumptions.
+Leave artifacts.
+```
+
+---
+
+### RESEARCH NODES
+
+```text
+/blacksite
+/threat-atlas
+/ghost-protocol
+/signal-noise
+/blang-core
 ```
 
 ---
 
 > Attack surfaces reveal truth.
 
----
+```text
+NO BIO.
+NO FACE.
+ONLY OUTPUT.
+```
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hackerhacks-attacks&show_icons=true&theme=radical)
-
-![Streak](https://streak-stats.demolab.com/?user=hackerhacks-attacks&theme=dark)
+</div>
