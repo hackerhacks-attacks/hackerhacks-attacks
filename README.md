@@ -56,7 +56,7 @@ Leave artifacts.
 /threat-atlas
 /ghost-protocol
 /signal-noise
-/blang-core
+/lang-core
 ```
 
 ---
