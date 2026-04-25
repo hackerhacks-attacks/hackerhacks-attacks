@@ -1,5 +1,17 @@
 <div align="center">
 
+<img src="https://img.shields.io/badge/Linux-0B1115?style=for-the-badge&logo=linux&logoColor=9DDFE4&labelColor=0B1115">
+<img src="https://img.shields.io/badge/Python-0B1115?style=for-the-badge&logo=python&logoColor=9DDFE4&labelColor=0B1115">
+<img src="https://img.shields.io/badge/Git-0B1115?style=for-the-badge&logo=git&logoColor=9DDFE4&labelColor=0B1115">
+<img src="https://img.shields.io/badge/GitHub-0B1115?style=for-the-badge&logo=github&logoColor=9DDFE4&labelColor=0B1115">
+<img src="https://img.shields.io/badge/Bash-0B1115?style=for-the-badge&logo=gnubash&logoColor=9DDFE4&labelColor=0B1115">
+<img src="https://img.shields.io/badge/Markdown-0B1115?style=for-the-badge&logo=markdown&logoColor=9DDFE4&labelColor=0B1115">
+
+</div>
+
+
+<div align="center">
+
 <img src="./assets/hero-animated.svg" width="100%" alt="Security Research Portfolio Banner">
 
 <br>
