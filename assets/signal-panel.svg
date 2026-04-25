@@ -1,38 +1,49 @@
-<svg width="1400" height="280" viewBox="0 0 1400 280" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1400" height="280" rx="30" fill="#070A0D"/>
+<svg width="1400" height="330" viewBox="0 0 1400 330" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="accent"><stop stop-color="#9DDFE4"/><stop offset="1" stop-color="#E9FFFF"/></linearGradient>
-    <filter id="glow"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="330">
+      <stop stop-color="#0B1115"/>
+      <stop offset="0.5" stop-color="#0B1A1E"/>
+      <stop offset="1" stop-color="#06080A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#9DDFE4"/>
+      <stop offset="1" stop-color="#E9FFFF"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#BED7DA" stroke-opacity="0.055"/>
+    </pattern>
   </defs>
-  <rect x="1" y="1" width="1398" height="278" rx="29" stroke="#BED7DA" stroke-opacity="0.15"/>
-  <text x="58" y="72" fill="#F3F7F8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="750" letter-spacing="-1.5">Review flow</text>
-  <text x="60" y="110" fill="#9AA8AC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Public material is structured for safe evaluation without exposing private or internal information.</text>
-  <line x1="184" y1="180" x2="1180" y2="180" stroke="#BED7DA" stroke-opacity="0.16" stroke-width="2"/>
-  <line x1="184" y1="180" x2="1180" y2="180" stroke="url(#accent)" stroke-opacity="0.8" stroke-width="2" stroke-dasharray="80 920">
-    <animate attributeName="stroke-dashoffset" values="1000;0" dur="5s" repeatCount="indefinite"/>
-  </line>
-  <g transform="translate(130 150)">
-    <circle cx="30" cy="30" r="30" fill="#0B1115" stroke="#9DDFE4" stroke-opacity="0.35"/>
-    <text x="30" y="36" text-anchor="middle" fill="#9DDFE4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">01</text>
-    <text x="-30" y="88" fill="#F3F7F8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Public Scope</text>
+  <rect width="1400" height="330" rx="30" fill="url(#bg)"/>
+  <rect width="1400" height="330" rx="30" fill="url(#grid)">
+    <animate attributeName="opacity" values="0.3;0.55;0.3" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="1" y="1" width="1398" height="328" rx="29" stroke="#BED7DA" stroke-opacity="0.16"/>
+  <text x="56" y="76" fill="#F3F7F8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="750" letter-spacing="-1.5">Private by design. Professional by output.</text>
+  <text x="58" y="116" fill="#9AA8AC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Selected public material only. No private identity, client data, unpublished research, or internal direction is disclosed.</text>
+  <g transform="translate(54 160)">
+    <g>
+      <rect width="295" height="104" rx="18" fill="#FFFFFF" fill-opacity="0.032" stroke="#BED7DA" stroke-opacity="0.14"/>
+      <text x="22" y="38" fill="url(#accent)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="1.6">01 / SCOPE</text>
+      <text x="22" y="69" fill="#F3F7F8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="650">Selected public work</text>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="4.4s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(328 0)">
+      <rect width="295" height="104" rx="18" fill="#FFFFFF" fill-opacity="0.032" stroke="#BED7DA" stroke-opacity="0.14"/>
+      <text x="22" y="38" fill="url(#accent)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="1.6">02 / REVIEW</text>
+      <text x="22" y="69" fill="#F3F7F8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="650">Safe reproducible examples</text>
+      <animate attributeName="opacity" values="1;0.7;1" dur="4.4s" begin="0.7s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(656 0)">
+      <rect width="295" height="104" rx="18" fill="#FFFFFF" fill-opacity="0.032" stroke="#BED7DA" stroke-opacity="0.14"/>
+      <text x="22" y="38" fill="url(#accent)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="1.6">03 / PRIVACY</text>
+      <text x="22" y="69" fill="#F3F7F8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="650">Minimal public identity</text>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="4.4s" begin="1.2s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(984 0)">
+      <rect width="295" height="104" rx="18" fill="#FFFFFF" fill-opacity="0.032" stroke="#BED7DA" stroke-opacity="0.14"/>
+      <text x="22" y="38" fill="url(#accent)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="1.6">04 / STANDARD</text>
+      <text x="22" y="69" fill="#F3F7F8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="650">Professional review safe</text>
+      <animate attributeName="opacity" values="1;0.7;1" dur="4.4s" begin="1.8s" repeatCount="indefinite"/>
+    </g>
   </g>
-  <g transform="translate(430 150)">
-    <circle cx="30" cy="30" r="30" fill="#0B1115" stroke="#9DDFE4" stroke-opacity="0.35"/>
-    <text x="30" y="36" text-anchor="middle" fill="#9DDFE4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">02</text>
-    <text x="-38" y="88" fill="#F3F7F8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Review Material</text>
-  </g>
-  <g transform="translate(730 150)">
-    <circle cx="30" cy="30" r="30" fill="#0B1115" stroke="#9DDFE4" stroke-opacity="0.35"/>
-    <text x="30" y="36" text-anchor="middle" fill="#9DDFE4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">03</text>
-    <text x="-42" y="88" fill="#F3F7F8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Safe Examples</text>
-  </g>
-  <g transform="translate(1030 150)">
-    <circle cx="30" cy="30" r="30" fill="#0B1115" stroke="#9DDFE4" stroke-opacity="0.35"/>
-    <text x="30" y="36" text-anchor="middle" fill="#9DDFE4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">04</text>
-    <text x="-42" y="88" fill="#F3F7F8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Professional Use</text>
-  </g>
-  <circle cx="184" cy="180" r="5" fill="#9DDFE4" filter="url(#glow)">
-    <animate attributeName="cx" values="184;1180;184" dur="5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.4;1;0.4" dur="5s" repeatCount="indefinite"/>
-  </circle>
 </svg>
