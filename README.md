@@ -1,5 +1,17 @@
 <div align="center">
 
+<img src="https://img.shields.io/badge/Security-Research-0B1115?style=for-the-badge&labelColor=0B1115&color=9DDFE4">
+<img src="https://img.shields.io/badge/Secure-Systems-0B1115?style=for-the-badge&labelColor=0B1115&color=9DDFE4">
+<img src="https://img.shields.io/badge/Detection-Engineering-0B1115?style=for-the-badge&labelColor=0B1115&color=9DDFE4">
+<img src="https://img.shields.io/badge/Technical-Documentation-0B1115?style=for-the-badge&labelColor=0B1115&color=9DDFE4">
+<img src="https://img.shields.io/badge/Authorized-Labs-0B1115?style=for-the-badge&labelColor=0B1115&color=9DDFE4">
+<img src="https://img.shields.io/badge/Privacy-Conscious-0B1115?style=for-the-badge&labelColor=0B1115&color=9DDFE4">
+
+</div>
+
+
+<div align="center">
+
 <img src="https://img.shields.io/badge/Linux-0B1115?style=for-the-badge&logo=linux&logoColor=9DDFE4&labelColor=0B1115">
 <img src="https://img.shields.io/badge/Python-0B1115?style=for-the-badge&logo=python&logoColor=9DDFE4&labelColor=0B1115">
 <img src="https://img.shields.io/badge/Git-0B1115?style=for-the-badge&logo=git&logoColor=9DDFE4&labelColor=0B1115">
